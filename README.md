@@ -1,7 +1,7 @@
 # oop-introduction
 ### php:
 
-Whats is OOP ?/
+Whats is OOP?
 
 OOP stands for Object-Oriented Programming.
 
